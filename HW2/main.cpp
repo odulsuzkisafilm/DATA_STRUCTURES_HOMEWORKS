@@ -1,4 +1,4 @@
-// Hamit Efe Cinar 30925
+// Efe Cinar
 #include <iostream>
 #include <string>
 #include "Dictionary.h"
