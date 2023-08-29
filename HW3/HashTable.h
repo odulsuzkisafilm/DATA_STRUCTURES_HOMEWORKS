@@ -9,7 +9,6 @@
 #include <iostream>
 #include <string>
 
-/* Begin: data structures and member functions taken from the Hashtables and Hashtables2 slides and updated */
 template <class HashedObj>
 class HashTable
 {
@@ -49,8 +48,6 @@ private:
     int findPos( const HashedObj & x ) const;
     void rehash();
 };
-
-/* End: data structures and member functions taken from the Hashtables and Hashtables2 slides and updated */
 
 template<class HashedObj>
 int HashTable<HashedObj>::getTableSize() const{
