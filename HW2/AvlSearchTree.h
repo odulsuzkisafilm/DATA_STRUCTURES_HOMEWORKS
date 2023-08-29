@@ -1,5 +1,5 @@
 //
-// Created by Hamit Efe Cinar on 03.08.2023.
+// Created by Efe Cinar on 03.08.2023.
 //
 
 #ifndef CS300HW2_AVLSEARCHTREE_H
