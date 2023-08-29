@@ -6,7 +6,6 @@
 #define CS300HW2_AVLSEARCHTREE_H
 #include <iostream>
 
-/* Begin: data structures and member functions taken from the Trees2 and Trees3 slide and updated */
 template <class Comparable>
 class AvlSearchTree;
 
@@ -68,7 +67,6 @@ private:
     void doubleWithLeftChild( AvlNode<Comparable> * & k3 ) const;
     void doubleWithRightChild( AvlNode<Comparable> * & k1 ) const;
 };
-/* End: data structure and member functions taken from the Trees2 and Trees3 slide and updated */
 
 template <class Comparable>
 void AvlSearchTree<Comparable>::remove(const Comparable & x, AvlNode<Comparable> * & t)
