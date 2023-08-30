@@ -1,4 +1,4 @@
-# DATA_STRUCTURES_HOMEWORKS
+# Data Structures Homeworks
 
 ### HW1 - Maze Generator and Solver
 
